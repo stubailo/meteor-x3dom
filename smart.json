@@ -1,0 +1,9 @@
+{
+  "name": "x3dom",
+  "description": "A library that allows you to write 3D scenes as
+    elements on your page.",
+  "homepage": "https://github.com/stubailo/meteor-x3dom",
+  "author": "Sashko Stubailo (stubailo.com)",
+  "version": "0.0.1",
+  "git": "https://github.com/stubailo/meteor-x3dom.git"
+}
